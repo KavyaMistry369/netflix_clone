@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855360559505",
+    "project_id": "netflix-5fb51",
+    "storage_bucket": "netflix-5fb51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855360559505:android:3108815a831318b6a86230",
+        "android_client_info": {
+          "package_name": "com.example.netflix_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACE-VLvCBftEtHUqjKMPSc_OD2NJzrpFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
